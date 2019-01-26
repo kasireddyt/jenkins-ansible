@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: All
   tasks:
     - name: Add Docker Signing Key
       apt_key: 
